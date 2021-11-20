@@ -44,7 +44,7 @@
 "custom_fullads_link":"https://www.jdoqocy.com/click-100278415-14482593",
 "custom_fullads_gif":false,
 "custom_fullads_enable":false,
-"enable_force_internal":false,
+"enable_force_internal":true,
 "menu_text_tv":"",
 "menu_link_tv":"",
 "menu_link_phone":"",
