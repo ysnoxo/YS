@@ -53,7 +53,7 @@
 "show_ads":"0",
 "downloader_package_name":"com.one.downloader",
 "downloader_name":"One Downloader",
-"enable_install_player":true,
+"enable_install_player":false,
 "enable_download_adm":true,
 "title_player":"Titan Video Player",
 "description_player":"Best player to work with BeeTV. Less ads and better streaming!",
