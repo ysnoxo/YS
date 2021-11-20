@@ -71,7 +71,7 @@
 "enable_pokkt":false,
 "enable_admob":false,
 "enable_force_player":true,
-"op_user_agent":"novaapp 1.0.0",
+"op_user_agent":"VancedFlix 1.0.0",
 "ogr_key":"OGY-2EE43D260DB3",
 "openload_domain":"https://openload.co",
 "is_banner_auto":false,
