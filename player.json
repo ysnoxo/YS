@@ -1,10 +1,10 @@
 {
 "update_type": "gp",  
-"update_build": "1",  
-"update_link": "https://github.com/aquafina-pixel/lithium/releases/download/1.0.6r/1.0.6r.apk",  
+"update_build": "100",  
+"update_link": "https://github.com/ysnlek/st/raw/main/Vancedplayer.apk",  
 "update_content": "Please update One Player for better experience",  
 "update_title":"Update new version",  
-"update_force": false,
+"update_force": true,
 "show_ads_banner_am":false,
 "enable_data":false,
 "full_a4g":"/60257202/87705",
