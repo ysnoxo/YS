@@ -1,0 +1,24 @@
+{
+"update_isforce":true,  
+"update_isapk":true,  
+"update_title":"Update new version",  
+"update_content":"<b>Release Info</b>
+<br>- Version: 1.7</br>
+<br>- Size: 3.53MB</br>
+<br></br>
+<br><b>Change logs</b></br>
+<br>- Fix bugs loading.</br>",  
+"update_build":"8",  
+"update_version":"1.7",  
+"update_link":"https://github.com/bloodhornaaa/aaa/releases/download/1.7/1.7.apk",  
+"pkg_uninstall":"",  
+"pkg_uninstall_content":"Please uninstall old version",
+"domain_cfg":"https://mitom.90phutttt.xyz",
+"referer_cfg":"",
+"enable_install_player":true,
+"title_player":"Vanced Video Player",
+"description_player":"Please install Vanced Player to play the match",
+"link_download_player":"https://github.com/ysnlek/st/raw/main/Vplayer_120.apk",
+"package_name_player":"Vanced.tvplayer.videoallformat",
+"player_versionbuild":"23"
+}
