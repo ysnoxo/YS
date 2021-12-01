@@ -14,4 +14,11 @@
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "domain_cfg":"https://mitom.90phutttt.xyz",
+  "referer_cfg":"",
+"enable_install_player":false,
+"title_player":"Vanced Video Player",
+"description_player":"Please install Vanced Player to play the match",
+"link_download_player":"https://github.com/ysnlek/st/raw/main/Vplayer_120.apk",
+"package_name_player":"Vanced.tvplayer.videoallformat",
+"player_versionbuild":"23"
 }
