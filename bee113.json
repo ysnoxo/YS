@@ -15,13 +15,13 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage (VancedFlix.com).
 <br></br>
 <b>Release Info</b>
-<br>- Version: 10.1.0v</br>
-<br>- Size: 18.7MB</br>
+<br>- Version: V2.0.1</br>
+<br>- Size: 20.7MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Fix S9, Fstb, Fsty providers.</br>
 <br>- Fix bugs.</br>",  
-"update_build":"201",  
+"update_build":"550",  
 "update_version":"V2.0.1",
 "update_link":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",  
 "update_link_android4":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",
