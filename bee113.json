@@ -21,8 +21,8 @@
 <br><b>Change logs</b></br>
 <br>- Fix S9, Fstb, Fsty providers.</br>
 <br>- Fix bugs.</br>",  
-"update_build":"112",  
-"update_version":"2.9.7",
+"update_build":"201",  
+"update_version":"V2.0.1",
 "update_link":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",  
 "update_link_android4":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",
 "pkg_uninstall":"com.Vancedflix.lotus",  
