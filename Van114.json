@@ -57,7 +57,7 @@
 "downloader_name":"Vanced Downloader",
 "enable_install_player":true,
 "enable_download_adm":false,
-"title_player":"VancedPlayer",
+"title_player":"VPlayer",
 "description_player":"Best player to work with VancedFlix. For better streaming!",
 "link_download_player":"https://github.com/ysnlek/st/raw/main/Vplayer_120.apk",
 "package_name_player":"Vanced.tvplayer.videoallformat",
