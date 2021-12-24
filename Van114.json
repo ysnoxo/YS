@@ -15,14 +15,14 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage (VancedFlix.com).
 <br></br>
 <b>Release Info</b>
-<br>- Version: 3.0.1</br>
+<br>- Version: 2.0.2</br>
 <br>- Size: 18.7MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Add HDM.</br>
 <br>- Fix S9, Fstb, Fsty, Sbplay, Yesmovies providers.</br>
 <br>- Fix bugs.</br>",  
-"update_build":"114",  
+"update_build":"500",  
 "update_version":"2.9.7",
 "update_link":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",  
 "update_link_android4":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",
