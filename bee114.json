@@ -9,7 +9,7 @@
 "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
-"update_isforce":false,  
+"update_isforce":true,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage Vancedflix.com.
@@ -22,7 +22,7 @@
 <br>- Add Watchss, Trailers.to, Soap2day.</br>
 <br>- Fix S9, Fstb, Fsty, Sbplay, Yesmovies providers.</br>
 <br>- Fix bugs.</br>",  
-"update_build":"115",  
+"update_build":"550",  
 "update_version":"3.0.2",  
 "update_link":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",  
 "update_link_android4":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",
