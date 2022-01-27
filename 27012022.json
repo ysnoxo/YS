@@ -22,8 +22,8 @@
 <br>- Add Watchss, Trailers.to, Soap2day.</br>
 <br>- Fix S9, Fstb, Fsty, Sbplay, Yesmovies providers.</br>
 <br>- Fix bugs.</br>",  
-"update_build":"115",  
-"update_version":"3.0.2",  
+"update_build":"121",  
+"update_version":"2.0.8",  
 "update_link":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",  
 "update_link_android4":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",
 "pkg_uninstall":"com.Vancedflix.lotus",  
